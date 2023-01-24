@@ -1,0 +1,68 @@
+@font-face {
+    font-family: Outfit;
+    src: url(./fonts/Outfit/Outfit-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: 'Outfit';
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.page-holder {
+    padding: 50px 0 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    border-radius: 3%;
+    padding: 20px 20px 40px 20px;
+    width: 80%;
+    height: 80%;
+    max-width: 300px;
+    /* max-height: 30%; */
+}
+
+#qr-code {
+    border-radius: 3%;
+}
+
+.title {
+    margin: 20px 0px 15px 0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+.subtitle {
+    margin: 0px;
+    padding: opx;
+    font-weight: bold;
+    font-size: 17px;
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+
+#back-btn {
+    width: 50px;
+    border: 2px solid lightgray;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+
+    right: 50px;
+    bottom: 50px;
+}
