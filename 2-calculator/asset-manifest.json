@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf5cb816.css",
+    "main.js": "/static/js/main.17758eb7.js",
+    "static/media/FiraSans-Regular.ttf": "/static/media/FiraSans-Regular.f4eb295ecc2fb842d61c.ttf",
+    "index.html": "/index.html",
+    "main.bf5cb816.css.map": "/static/css/main.bf5cb816.css.map",
+    "main.17758eb7.js.map": "/static/js/main.17758eb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5cb816.css",
+    "static/js/main.17758eb7.js"
+  ]
+}
